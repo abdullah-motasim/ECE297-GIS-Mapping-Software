@@ -18,3 +18,7 @@ The slides for our initial pitch (OP1) are here! Check it out:  ([https://docs.g
 
 The slides for our Final Oral Presentation(OP2) are here: Check it out:  
 (https://docs.google.com/presentation/d/1icryBrn_LUVS-TV6fo4AqazAO3d5akO98tqET2xlQyU/edit?usp=sharing)
+
+# Demo Video
+![GIS-video](https://github.com/user-attachments/assets/a2cea024-f1c9-4846-8b9a-d3bb98a2589f)
+
