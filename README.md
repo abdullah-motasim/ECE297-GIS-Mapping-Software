@@ -2,6 +2,9 @@
 A mapping software written in C++ utilizing EZGL Graphics library, GTK++ glade, and OSM (OpenStreetMap) database API.  
 Note: Source code cannot be provided as this project was part of the ECE297 course at the University of Toronto.
 
+# Demo Video
+![GIS-demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1509b764-444d-427b-abc2-e74efd9beecf)
+
 # Key functionalities
 - Basic map functionalities (Display streets & names, points of interest, features.. etc)
 - Support big cities of multiple countries
@@ -19,6 +22,4 @@ The slides for our initial pitch (OP1) are here! Check it out:  ([https://docs.g
 The slides for our Final Oral Presentation(OP2) are here: Check it out:  
 (https://docs.google.com/presentation/d/1icryBrn_LUVS-TV6fo4AqazAO3d5akO98tqET2xlQyU/edit?usp=sharing)
 
-# Demo Video
-![GIS-video](https://github.com/user-attachments/assets/a2cea024-f1c9-4846-8b9a-d3bb98a2589f)
 
